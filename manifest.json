@@ -1,0 +1,10 @@
+{
+  "files": [],
+  "app": {
+    "versionCode": 6,
+    "versionName": "1.4.1",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.4.1.apk",
+    "sha256": "1fcfb83968a589ffe6d6bc84e8cfe1e41665a3de37754b7946cefe4e5437b487",
+    "notes": "Countdown pictures, colours, sizes, and animated numbers."
+  }
+}
