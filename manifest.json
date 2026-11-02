@@ -1,10 +1,10 @@
 {
   "files": [],
   "app": {
-    "versionCode": 6,
-    "versionName": "1.4.1",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.4.1.apk",
-    "sha256": "1fcfb83968a589ffe6d6bc84e8cfe1e41665a3de37754b7946cefe4e5437b487",
-    "notes": "Countdown pictures, colours, sizes, and animated numbers."
+    "versionCode": 8,
+    "versionName": "1.5.0",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.5.0.apk",
+    "sha256": "3c14fc950f10d12acd54cab82b4d52678895cbb2fe07fd63df4b9cccc360c805",
+    "notes": "The remote is now one page, with what's playing, the queue, and the keypad together\nNumbers pressed on the remote now appear on the app's screen\nDonate to Mic-Key, and links to our Facebook Page and Group, are in Settings\nOcean Day is the new default theme\nCountdowns now take one second per step, and you can choose to follow the beat instead\nLight themes show white lyrics over videos, so they're easier to read\nUpdates now show what's new before you download"
   }
 }
