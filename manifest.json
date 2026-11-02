@@ -1,10 +1,10 @@
 {
   "files": [],
   "app": {
-    "versionCode": 9,
-    "versionName": "1.5.1",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.5.1.apk",
-    "sha256": "7ff3f09525b2e49331bdb3fd8ce721f33bb76b499f7417f731c0dcf9cd35ffd8",
-    "notes": "The About row in Settings now shows just your app version"
+    "versionCode": 11,
+    "versionName": "1.6.0",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.6.0.apk",
+    "sha256": "aa58806a013b978cf243992ea121a12788605be69c23dad9d32288e0b0721610",
+    "notes": "Six new premium themes: Candy Land, Comic Pop, Sunset Drive, Galaxy Dream, Tropical Beach, and Sakura Breeze, each with its own art, cards, and fonts\nCute 3D cartoon numbers now count you in and fill the keypad on the new themes, and any theme can use them in Countdown Style\nThe countdown now shows big animated numbers on the song's beat, right above the first word, and ends on GO!\nFast songs count every second beat so the numbers stay easy to read\nThe theme you picked now stands out, with a double ring and an In Use badge\nLyric, countdown, and Custom Theme settings now show a live preview, so you can see a change before you keep it"
   }
 }
