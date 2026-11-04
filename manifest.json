@@ -1,10 +1,10 @@
 {
   "files": [],
   "app": {
-    "versionCode": 11,
-    "versionName": "1.6.0",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.6.0.apk",
-    "sha256": "aa58806a013b978cf243992ea121a12788605be69c23dad9d32288e0b0721610",
-    "notes": "Six new premium themes: Candy Land, Comic Pop, Sunset Drive, Galaxy Dream, Tropical Beach, and Sakura Breeze, each with its own art, cards, and fonts\nCute 3D cartoon numbers now count you in and fill the keypad on the new themes, and any theme can use them in Countdown Style\nThe countdown now shows big animated numbers on the song's beat, right above the first word, and ends on GO!\nFast songs count every second beat so the numbers stay easy to read\nThe theme you picked now stands out, with a double ring and an In Use badge\nLyric, countdown, and Custom Theme settings now show a live preview, so you can see a change before you keep it"
+    "versionCode": 12,
+    "versionName": "1.7.0",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.7.0.apk",
+    "sha256": "23506c8695bfe30e3901a509cd237cc68366f6cc3ca1b0053bf8431593bfc590",
+    "notes": "A brand-new look from the home page to Settings, with a 3D microphone made for every theme\nA bar along the bottom, or down the side on a TV, takes you to Home, Songs, My Songs, Profile, and Settings in one tap\nA redesigned keypad with easier Key, Tempo, and Melody controls and a big Play button\nTapping a song in the stage search now asks whether to sing it now or reserve it, and reserving no longer starts it, so you can line up several first\nEvery song list has a Sing button, and the top three scores now stand on a podium\nSettings are grouped into categories, and the search still finds any setting\nMic-Key now runs full screen. Turn it off in Settings, Behavior, Full Screen\nVIP is free for everyone: send your Device ID to get a code. Donating is optional"
   }
 }
