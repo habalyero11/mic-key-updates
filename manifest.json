@@ -6,5 +6,52 @@
     "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.9.0.apk",
     "sha256": "eeef178e8746bb5349f344e0727b79d5e302db03aa5e015090babfc3c6c8dc3f",
     "notes": "Much easier to use with a TV remote: what you're on is always clearly highlighted, on every theme\nThe remote never gets stuck any more after opening a page, a settings section, or a song\nPressing a number button on any menu opens the stage with the code typed, like a videoke machine\nUp and Down always leave a text box, and the stage search opens on its search box\nKeypad buttons now show their full names: Tempo, Melody, Reserve, Reserve List, and 1st Reserve\nMIDI, KAR, and zipped songs named by a number keep that number as their song code\nSongs named only by a number show the title and artist written inside the file, and search finds them by both"
-  }
+  },
+  "packs": [
+    {
+      "id": "idx",
+      "title": "Song Bank",
+      "description": "Sample songs to try Mic-Key with",
+      "url": "https://uls-insight.online/Mic-Key%20contents/idx.zip",
+      "sha256": "37148f9f575af30beb7f61104c0983a54bf9bcafb778d15112b7087a550a821e",
+      "size": 504579651,
+      "unpacked": 504502309
+    },
+    {
+      "id": "sound",
+      "title": "SoundFonts",
+      "description": "Instrument sounds for MIDI songs",
+      "url": "https://uls-insight.online/Mic-Key%20contents/sound.zip",
+      "sha256": "f15f26192918322b48a24fb488034c2793381776b911cd98b33b5154bb261563",
+      "size": 1357401694,
+      "unpacked": 2250425944
+    },
+    {
+      "id": "bgv",
+      "title": "Background Videos",
+      "description": "Videos that play behind the words",
+      "url": "https://uls-insight.online/Mic-Key%20contents/bgv.zip",
+      "sha256": "aa60fd43da8af8d0d0747f3f051116a781d00cdcb0fca0f5db7660ba0eca196e",
+      "size": 373793541,
+      "unpacked": 374705591
+    },
+    {
+      "id": "bgphoto",
+      "title": "Background Photos",
+      "description": "Photos that play behind the words",
+      "url": "https://uls-insight.online/Mic-Key%20contents/bgphoto.zip",
+      "sha256": "dd1f4d57981c5b5656decf8f68a8fd598656e0ef888f47450ae25da99836cdd4",
+      "size": 7308401,
+      "unpacked": 7334128
+    },
+    {
+      "id": "songbook",
+      "title": "Songbook",
+      "description": "A PDF list of the sample songs",
+      "url": "https://uls-insight.online/Mic-Key%20contents/SONGBOOK_Mic-Key.pdf",
+      "sha256": "af7d77007d4b843667b4fb5bd40897f1c5f8bf6fb05ffd3f592e371a010b8664",
+      "size": 2707432,
+      "unpacked": 2707432
+    }
+  ]
 }
