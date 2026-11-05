@@ -1,11 +1,11 @@
 {
   "files": [],
   "app": {
-    "versionCode": 14,
-    "versionName": "1.9.0",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.9.0.apk",
-    "sha256": "eeef178e8746bb5349f344e0727b79d5e302db03aa5e015090babfc3c6c8dc3f",
-    "notes": "Much easier to use with a TV remote: what you're on is always clearly highlighted, on every theme\nThe remote never gets stuck any more after opening a page, a settings section, or a song\nPressing a number button on any menu opens the stage with the code typed, like a videoke machine\nUp and Down always leave a text box, and the stage search opens on its search box\nKeypad buttons now show their full names: Tempo, Melody, Reserve, Reserve List, and 1st Reserve\nMIDI, KAR, and zipped songs named by a number keep that number as their song code\nSongs named only by a number show the title and artist written inside the file, and search finds them by both"
+    "versionCode": 16,
+    "versionName": "1.10.1",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.10.1.apk",
+    "sha256": "b3f199ce0cc56f951ae607815e21c28e79a28a6358c176bc2011530f2594280a",
+    "notes": "Optional sample contents: download a song bank, SoundFonts, background videos, photos, and a songbook, one at a time or all at once, for testing only\nYour own folder and downloaded contents now load together\nHome shows how many duplicate songs you have, and can remove the extra copies\nSearch and song lists show each song once, even when it's in your folder twice\nSongs named \"Number - Artist - Title\" now show the right title and artist\nWith the player buttons hidden in landscape, a small tab on the side pulls the keypad out, and it hides again when a song starts\nNew Equalizer tab on the karaoke screen, between Play and Practice: a videoke-style equalizer you hear live\nThe equalizer now shows each band's dB\nMIDI and Audio Master Volume can go up to 150%"
   },
   "packs": [
     {
