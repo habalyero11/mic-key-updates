@@ -1,11 +1,11 @@
 {
   "files": [],
   "app": {
-    "versionCode": 19,
-    "versionName": "1.10.4",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.10.4.apk",
-    "sha256": "bb9a737650afb2da8bd5003acc05e1fd3488cc8173fefecea5ff1c43c27803bd",
-    "notes": "The guide melody now follows the MELODY setting on every song, including the many that reset their sound at the start\nMuted parts in the Mixer stay muted for the whole song\nThe equalizer now changes the sound of MIDI songs too, not just MP3s and videos\nMoving one equalizer bar no longer makes another one jump back\nThe Guide melody and master volume sliders change the sound as you drag them"
+    "versionCode": 20,
+    "versionName": "1.10.5",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.10.5.apk",
+    "sha256": "46e0b7564e18c4c5e887fa7e5702c246190f612932033457bef2a3992ba00639",
+    "notes": "The song controls now open at the top of the stage, away from the lyrics, in portrait and landscape"
   },
   "packs": [
     {
