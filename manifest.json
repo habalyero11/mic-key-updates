@@ -1,11 +1,11 @@
 {
   "files": [],
   "app": {
-    "versionCode": 16,
-    "versionName": "1.10.1",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.10.1.apk",
-    "sha256": "b3f199ce0cc56f951ae607815e21c28e79a28a6358c176bc2011530f2594280a",
-    "notes": "Optional sample contents: download a song bank, SoundFonts, background videos, photos, and a songbook, one at a time or all at once, for testing only\nYour own folder and downloaded contents now load together\nHome shows how many duplicate songs you have, and can remove the extra copies\nSearch and song lists show each song once, even when it's in your folder twice\nSongs named \"Number - Artist - Title\" now show the right title and artist\nWith the player buttons hidden in landscape, a small tab on the side pulls the keypad out, and it hides again when a song starts\nNew Equalizer tab on the karaoke screen, between Play and Practice: a videoke-style equalizer you hear live\nThe equalizer now shows each band's dB\nMIDI and Audio Master Volume can go up to 150%"
+    "versionCode": 17,
+    "versionName": "1.10.2",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.10.2.apk",
+    "sha256": "4099c0522e24749e440233a4232cde2bdcb1696ee09c10a76df484893a135c5f",
+    "notes": "The karaoke screen keeps its size when the keyboard opens, in portrait and landscape\nWhile you type a search, the song list stays visible above the keyboard\nThe number keys stay big in landscape\nHold the keypad's erase key to clear the whole search or code at once\nSearch boxes have an X button that clears them in one tap\nIn landscape, the player buttons now start hidden, with a tab on the side to bring them out\nHolding the erase key on your phone's keyboard clears the whole search\nNew lyrics editor: from a song's menu, write or paste the words, tap along as the song plays to time each line, nudge any line, and save\nAn LRC file beside a MIDI song now gives it its words, and the MIDI still scores your singing. Song bank songs can have one too, named by their code\nTV remote: Right on the stage brings out the hidden keypad, and Back puts it away\nTV remote: sliders now move with Left and Right, so Down always reaches Done\nTV remote: press OK on an equalizer bar to adjust it, and OK again to finish"
   },
   "packs": [
     {
