@@ -1,11 +1,11 @@
 {
   "files": [],
   "app": {
-    "versionCode": 18,
-    "versionName": "1.10.3",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.10.3.apk",
-    "sha256": "0bfe5a3461f9bd2bb18e04b4ae47ca337c2cdc4bd7a91321f8f14d182fca7cf8",
-    "notes": "The shade behind lyrics on videos and photos is lighter, so the video stays bright\nNew setting: Lyrics, Background Shade sets it to Off, Light, Normal, or Dark\nThe shade now covers the whole stage, with no bright strip beside the camera"
+    "versionCode": 19,
+    "versionName": "1.10.4",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.10.4.apk",
+    "sha256": "bb9a737650afb2da8bd5003acc05e1fd3488cc8173fefecea5ff1c43c27803bd",
+    "notes": "The guide melody now follows the MELODY setting on every song, including the many that reset their sound at the start\nMuted parts in the Mixer stay muted for the whole song\nThe equalizer now changes the sound of MIDI songs too, not just MP3s and videos\nMoving one equalizer bar no longer makes another one jump back\nThe Guide melody and master volume sliders change the sound as you drag them"
   },
   "packs": [
     {
