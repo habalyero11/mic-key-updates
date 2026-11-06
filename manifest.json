@@ -1,11 +1,11 @@
 {
   "files": [],
   "app": {
-    "versionCode": 21,
-    "versionName": "1.11.0",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.11.0.apk",
-    "sha256": "23d5eb5beac7ed7290d8103585adadcc2c0feb80eddd34f2cc3f7628c32dd26a",
-    "notes": "Skip a long intro or interlude: tap Skip on the stage, press OK on a TV remote, or use the phone remote\nVoice cut for MP3s and videos: VOICE on the keypad takes the singer out and keeps the bass and drums\nFind lyrics online for any song, timed for MP3s and ready to tap-time for MIDI\nMake an MP3 into karaoke in one go: copied in, voice cut, timed lyrics found\nA songbook PDF made on the phone, with every song and number, to print or share; guests can download it\nYour own songs keep their numbers when you add more\nNew History and Added tabs in My Songs\nCount-in sound: a click, a woodblock or a voice on each count\nGuests can send a message to the screen from their phones\nGuests Are Limited: guests add songs to the end and control only their own; the host does the rest\nSend songs, lyrics, SoundFonts and photos from a phone or computer on the same Wi-Fi\nRecordings save as small M4A files in Recordings › Mic-Key, with Listen, Share and Delete\nRecord Video Too: films the stage, never the keypad or menus, into Movies › Mic-Key\nRecording Voice Timing for Bluetooth microphones and speakers\nStage on the TV: with HDMI or screen mirroring, the TV shows the stage and the phone becomes the controller\nUse this phone as the remote: finds the stage on the Wi-Fi, and scores your singing with this phone's mic\nBluetooth Remote for places with no Wi-Fi or hotspot\nThe join code stays the same, so phones that joined before are still in\nAuto Sound Quality keeps the music smooth on slow TV boxes\nPhone's Sound Effects: Dolby, Wavelet and other equalizer apps can shape Mic-Key's sound\nA SoundFont that closes the app is set aside, and a broken one falls back to the built-in sound\nMusic Between Songs from your mp3s folder, fading out for each song\nProblem Report in Settings, and sample contents can download to an SD card\nA calculator in Party, Tools, and voice search understands Filipino and English\nDownloading several sample contents no longer stops at the first one that fails: the rest still come, and the window says which didn't\nTVs with no install settings page can update from inside the app"
+    "versionCode": 22,
+    "versionName": "1.11.1",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.11.1.apk",
+    "sha256": "a2e4018dfe11476e6028ba2bb8b89159486547521ea2005d31c891dd091e4dd1",
+    "notes": "Downloading the sample SoundFonts switches MIDI songs from the built-in sound to one of them, picked at random; a SoundFont you already use stays\nTV remotes reach the songs in the stage search: it opens on the first song, and Down from the search box goes to the songs\nNumber buttons in the stage search type into it and keep the highlight on the songs\nThe Reserve List on the stage opens on the first reserved song"
   },
   "packs": [
     {
