@@ -1,11 +1,11 @@
 {
   "files": [],
   "app": {
-    "versionCode": 22,
-    "versionName": "1.11.1",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.11.1.apk",
-    "sha256": "a2e4018dfe11476e6028ba2bb8b89159486547521ea2005d31c891dd091e4dd1",
-    "notes": "Downloading the sample SoundFonts switches MIDI songs from the built-in sound to one of them, picked at random; a SoundFont you already use stays\nTV remotes reach the songs in the stage search: it opens on the first song, and Down from the search box goes to the songs\nNumber buttons in the stage search type into it and keep the highlight on the songs\nThe Reserve List on the stage opens on the first reserved song"
+    "versionCode": 23,
+    "versionName": "1.11.2",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.11.2.apk",
+    "sha256": "78b72b2a9dd6b3df686e9e1971909be937e3f48ed102caa30e2236da1762ee3c",
+    "notes": "Melody works on every MIDI song: 100 plays the melody as the song has it, each step down is quieter, and 0 or Guide off takes it out\nBefore, the level was set against full volume, so in songs with a quiet melody most settings were louder than the song itself and 100 was quieter than 60\nSongs that play the melody on a second part too now turn both down together\nFind lyrics online fits timed lyrics to MIDI and KAR songs by itself when they match, and saves them; if they do not match, you tap along once as before"
   },
   "packs": [
     {
