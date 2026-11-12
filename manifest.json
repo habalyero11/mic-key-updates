@@ -1,18 +1,18 @@
 {
   "files": [],
   "app": {
-    "versionCode": 24,
-    "versionName": "1.12.0",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.12.0.apk",
-    "sha256": "09bbc955204ff465aa31642f4aa0792d63d371bda41699ea4ab656726a98215c",
-    "notes": "The version number now shows on Home; tap it to see what changed and check for updates\nThe guide melody is one saved level: what you set stays for every song, and Guide on comes back to that level\nTurning the phone no longer changes the background: the same video or photo carries on, and so do the song's colours and anything you had open\nThe camera key on the keypad now opens Stage Background: choose videos and their folder, photos, the camera, or theme art, and add your own from the gallery\nThe camera can be flipped, shown whole, and dimmed\nThe phone remote has a volume slider with the level and mute, the stage shows the new volume, and a phone used as the remote changes it with its own volume buttons\nThe BGV key on the phone remote opens the same Stage Background choices\nNew Interlude Banner settings: your own words, position, size, colour, font and look, with the time left and the next line\nThe live preview now shows what the stage really shows: the background, chords, pitch guide, title card, banner, prompt and greeting\nCustom Theme's preview shows the accents, menu font and number pad photo, and says when a Lyrics setting is overriding the theme\nA song now pauses for a phone call or another app's music\nReserved songs can come back after a crash or a restart\nLong lyric lines break onto two rows instead of running off the screen, and the song's title stays readable on light themes\nNew play modes: repeat this song, repeat all and shuffle; reserved songs can be moved up and cleared\nLyrics can sit at the top, middle or bottom, and the song's title can be hidden\nNew settings for what opens first, where to go after the last song, and the singing screen's rotation\nWhen there's no score, the screen now says why, and Settings has Test the Microphone, which can also choose a USB microphone\nRecordings keep their score, and Battle mode shows whose turn it is in that singer's colour\nSearch now finds songs by a line of their lyrics too, by itself, after the title matches; songs can also be sorted by newest, most sung, size or type\nLyrics can come from a .txt file beside a song or from an MP3's own tags\nLyrics fitted to a MIDI now light up word by word, and ones that don't quite fit open as a best guess to check\nPlaylists can be renamed, reordered and shuffled; singers can be renamed and removed, and each has their own best score and song count\nOnly the host can send songs unless you open it up, and the QR on Send Songs includes the host code\nThe phone remote can pause and skip the music between songs, and the Party page counts connected phones\nThe small window has pause and next buttons\nNew Getting Started guide, and a letter keyboard in search for TV remotes\nUpdating the song list no longer shows the Loading screen, a background video that can't play is skipped, and a device on the setup screen can now update itself\nBackups keep your own songs' numbers and no longer copy this device's join code"
+    "versionCode": 25,
+    "versionName": "1.12.1",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.12.1.apk",
+    "sha256": "ac8577a7c6f2812ea5cf9d3f99fbdc8200ed09d0e24284e8dfc7520a261b72d1",
+    "notes": "The Guide melody now works like a karaoke machine: it sets only the melody channel, and nothing else in the song\nNew setting: Settings, Sound, Melody Channel. Most songs keep the melody on Channel 1; choose Channel 4 if yours are there\nA song can no longer change the melody's level by itself, so Melody 0 or Guide off takes it out, and each step sounds the same in every song\nScores follow the part that carries the tune, even when a song file names another part as the lead"
   },
   "windows": {
-    "versionCode": 24,
-    "versionName": "1.12.0",
-    "url": "https://github.com/habalyero11/mic-key-updates/releases/download/windows-1.12.0/Mic-Key-1.12.0.msi",
-    "sha256": "3de448e70d86568e58f2779157d9c381453ba6c0fe0045c7d0e8695e497d661a",
-    "notes": "The first Windows version of Mic-Key"
+    "versionCode": 25,
+    "versionName": "1.12.1",
+    "url": "https://github.com/habalyero11/mic-key-updates/releases/download/windows-1.12.1/Mic-Key-1.12.1.msi",
+    "sha256": "4647b2a8e9f22cf4c6ebc5a693c0cc8d3ec38db189544e56d75e8a95ba51cf53",
+    "notes": "The Guide melody now works like a karaoke machine: it sets only the melody channel, and nothing else in the song\nNew setting: Settings, Sound, Melody Channel. Most songs keep the melody on Channel 1; choose Channel 4 if yours are there\nA song can no longer change the melody's level by itself, so Melody 0 or Guide off takes it out, and each step sounds the same in every song\nScores follow the part that carries the tune, even when a song file names another part as the lead"
   },
   "packs": [
     {
