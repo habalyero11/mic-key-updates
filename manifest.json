@@ -1,18 +1,18 @@
 {
   "files": [],
   "app": {
-    "versionCode": 26,
-    "versionName": "1.12.2",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.12.2.apk",
-    "sha256": "86b00562bfe870d34e6e740db46044e04d80e10a86a17499d53d12db3a7f725c",
-    "notes": "The Mixer's Guide melody button, scoring and the pitch guide now use the same Melody Channel as the Guide, in every song\nBefore, some songs called another part, such as the piano, the Guide melody, so muting it there muted the wrong instrument\nMic-Key now looks for a new version each time you come back to it, and the update notice on Home stays until you install it"
+    "versionCode": 27,
+    "versionName": "1.13.0",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.13.0.apk",
+    "sha256": "60067d139860f17f17935949ccddab8d4c0d426421fde689198d394482aae955",
+    "notes": "Crowd Score: after each song, guests vote 1 to 5 stars on their phones. Turn it on in Settings, Scoring, Score Mode\nReactions: hearts, laughs, fire, claps and Encore from guests' phones float up the side of the stage\nDedications: reserve a song for someone, like \"For Lola\", and it shows on the song's title card\nThe Lobby: between songs the stage shows who's up next, who it's for, the QR code to join, and tonight's top scores\nHost Lock and Rental: Settings behind a PIN, and paid time or songs that lock the stage when they run out\nA new dark glass control panel on the stage, in your theme's colours\nThe Pitch Guide works without a microphone now: the melody's notes fly into a glowing line and spark as they hit. Turn it on or off in Settings, Lyrics & Countdown\nReal applause, cheers and a party horn, and drum sounds played on the SoundFont, instead of made-up sounds"
   },
   "windows": {
-    "versionCode": 26,
-    "versionName": "1.12.2",
-    "url": "https://github.com/habalyero11/mic-key-updates/releases/download/windows-1.12.2/Mic-Key-1.12.2.msi",
-    "sha256": "e57aafbb9a8d821535c829cff2b46243f2167f6dba9eb29ffb6468e2c4c11183",
-    "notes": "The Mixer's Guide melody button, scoring and the pitch guide now use the same Melody Channel as the Guide, in every song\nBefore, some songs called another part, such as the piano, the Guide melody, so muting it there muted the wrong instrument\nMic-Key now looks for a new version each time you come back to it, and the update notice on Home stays until you install it"
+    "versionCode": 27,
+    "versionName": "1.13.0",
+    "url": "https://github.com/habalyero11/mic-key-updates/releases/download/windows-1.13.0/Mic-Key-1.13.0.msi",
+    "sha256": "21b3c799d6c735f1e93e6c942a99da667d1d5e43d4bb427794f57cfd6fd4f840",
+    "notes": "Crowd Score: after each song, guests vote 1 to 5 stars on their phones. Turn it on in Settings, Scoring, Score Mode\nReactions: hearts, laughs, fire, claps and Encore from guests' phones float up the side of the stage\nDedications: reserve a song for someone, like \"For Lola\", and it shows on the song's title card\nThe Lobby: between songs the stage shows who's up next, who it's for, the QR code to join, and tonight's top scores\nHost Lock and Rental: Settings behind a PIN, and paid time or songs that lock the stage when they run out\nA new dark glass control panel on the stage, in your theme's colours\nThe Pitch Guide works without a microphone now: the melody's notes fly into a glowing line and spark as they hit. Turn it on or off in Settings, Lyrics & Countdown\nReal applause, cheers and a party horn, and drum sounds played on the SoundFont, instead of made-up sounds"
   },
   "packs": [
     {
