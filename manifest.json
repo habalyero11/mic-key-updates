@@ -4,15 +4,15 @@
     "versionCode": 26,
     "versionName": "1.12.2",
     "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.12.2.apk",
-    "sha256": "93abe8f9d9b4f4f0ebf64590d21c17fd66643a3d369019c4b0cc9062adfe7b71",
-    "notes": "The Mixer's Guide melody button, scoring and the pitch guide now use the same Melody Channel as the Guide, in every song\nBefore, some songs called another part, such as the piano, the Guide melody, so muting it there muted the wrong instrument"
+    "sha256": "86b00562bfe870d34e6e740db46044e04d80e10a86a17499d53d12db3a7f725c",
+    "notes": "The Mixer's Guide melody button, scoring and the pitch guide now use the same Melody Channel as the Guide, in every song\nBefore, some songs called another part, such as the piano, the Guide melody, so muting it there muted the wrong instrument\nMic-Key now looks for a new version each time you come back to it, and the update notice on Home stays until you install it"
   },
   "windows": {
     "versionCode": 26,
     "versionName": "1.12.2",
     "url": "https://github.com/habalyero11/mic-key-updates/releases/download/windows-1.12.2/Mic-Key-1.12.2.msi",
-    "sha256": "7c3c5ba52b5e93c74a8033414aa8e5da9ebaee9cacdb403b35368491f0511077",
-    "notes": "The Mixer's Guide melody button, scoring and the pitch guide now use the same Melody Channel as the Guide, in every song\nBefore, some songs called another part, such as the piano, the Guide melody, so muting it there muted the wrong instrument"
+    "sha256": "e57aafbb9a8d821535c829cff2b46243f2167f6dba9eb29ffb6468e2c4c11183",
+    "notes": "The Mixer's Guide melody button, scoring and the pitch guide now use the same Melody Channel as the Guide, in every song\nBefore, some songs called another part, such as the piano, the Guide melody, so muting it there muted the wrong instrument\nMic-Key now looks for a new version each time you come back to it, and the update notice on Home stays until you install it"
   },
   "packs": [
     {
