@@ -1,18 +1,18 @@
 {
   "files": [],
   "app": {
-    "versionCode": 25,
-    "versionName": "1.12.1",
-    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.12.1.apk",
-    "sha256": "ac8577a7c6f2812ea5cf9d3f99fbdc8200ed09d0e24284e8dfc7520a261b72d1",
-    "notes": "The Guide melody now works like a karaoke machine: it sets only the melody channel, and nothing else in the song\nNew setting: Settings, Sound, Melody Channel. Most songs keep the melody on Channel 1; choose Channel 4 if yours are there\nA song can no longer change the melody's level by itself, so Melody 0 or Guide off takes it out, and each step sounds the same in every song\nScores follow the part that carries the tune, even when a song file names another part as the lead"
+    "versionCode": 26,
+    "versionName": "1.12.2",
+    "url": "https://raw.githubusercontent.com/habalyero11/mic-key-updates/main/mic-key-1.12.2.apk",
+    "sha256": "93abe8f9d9b4f4f0ebf64590d21c17fd66643a3d369019c4b0cc9062adfe7b71",
+    "notes": "The Mixer's Guide melody button, scoring and the pitch guide now use the same Melody Channel as the Guide, in every song\nBefore, some songs called another part, such as the piano, the Guide melody, so muting it there muted the wrong instrument"
   },
   "windows": {
-    "versionCode": 25,
-    "versionName": "1.12.1",
-    "url": "https://github.com/habalyero11/mic-key-updates/releases/download/windows-1.12.1/Mic-Key-1.12.1.msi",
-    "sha256": "4647b2a8e9f22cf4c6ebc5a693c0cc8d3ec38db189544e56d75e8a95ba51cf53",
-    "notes": "The Guide melody now works like a karaoke machine: it sets only the melody channel, and nothing else in the song\nNew setting: Settings, Sound, Melody Channel. Most songs keep the melody on Channel 1; choose Channel 4 if yours are there\nA song can no longer change the melody's level by itself, so Melody 0 or Guide off takes it out, and each step sounds the same in every song\nScores follow the part that carries the tune, even when a song file names another part as the lead"
+    "versionCode": 26,
+    "versionName": "1.12.2",
+    "url": "https://github.com/habalyero11/mic-key-updates/releases/download/windows-1.12.2/Mic-Key-1.12.2.msi",
+    "sha256": "7c3c5ba52b5e93c74a8033414aa8e5da9ebaee9cacdb403b35368491f0511077",
+    "notes": "The Mixer's Guide melody button, scoring and the pitch guide now use the same Melody Channel as the Guide, in every song\nBefore, some songs called another part, such as the piano, the Guide melody, so muting it there muted the wrong instrument"
   },
   "packs": [
     {
